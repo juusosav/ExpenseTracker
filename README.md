@@ -1,4 +1,4 @@
-# Expense Tracker (Console Application)
+# Expense Tracker (C# Console Application)
 
 A simple and functional C# console application for tracking personal expenses.  
 This project allows users to record, remove, view, and export expenses in multiple categories, with all data saved locally in JSON files.
@@ -48,7 +48,7 @@ This project allows users to record, remove, view, and export expenses in multip
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ExpenseTracker.git
+   git clone https://github.com/your-username/expense-tracker.git
 2. Navigate to the project folder:
    ```bash
    cd ExpenseTracker
